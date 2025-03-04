@@ -26,6 +26,7 @@ builds:
       - arm
       - s390x
       - ppc64le
+      - mipsle
     goarm:
       - 7
     ignore:
